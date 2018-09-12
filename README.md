@@ -1,2 +1,3 @@
 # P8105-GitHub-Example
-Example from Lecture 1.3. Git and GitHub
+
+This repo is an example for P8105, and includes a few simple RMD files.
